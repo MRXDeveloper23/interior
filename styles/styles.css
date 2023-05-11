@@ -236,6 +236,19 @@ footer span {
   color: white;
 }
 
+/* Media queries for tablet users */
+@media only screen and (min-width: 768px) {
+  .container {
+    padding: 12px 27px;
+  }
+  .main {
+    display: flex;
+    padding: 6rem 0;
+    align-items: center;
+    gap: 4rem;
+  }
+}
+
 /* Media queries for desktop screens */
 @media only screen and (min-width: 1024px) {
   .container {
@@ -275,6 +288,7 @@ footer span {
     font-size: 24px;
     margin-bottom: 48px;
     width: 400px;
+    line-height: 1.5;
   }
   .main__content > h2 {
     font-family: "Montserrat", sans-serif;
