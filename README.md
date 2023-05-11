@@ -38,12 +38,11 @@
 
 ![screenshot](https://github.com/MRXDeveloper23/interior/blob/master/assets/images/interior_demo.png?raw=true)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+interior design summary:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Users can see my page live at https://interior-custom.netlify.app.
+- Wonderful UI for the interior design amazed my job.
+- Have used flexbox and media queries for the responsive design.
 
 ### Built With
 
